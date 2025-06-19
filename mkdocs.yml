@@ -12,7 +12,7 @@ theme:
     - toc.integrate
 nav:
   - Front Page: index.md
-  - "Course-Note":
-    - "Basic-Principles-of-Marxism": "Course-Note/Basic-Principles-of-Marxism.md"
-    - "Organic-Chemistry": "Course-Note/Organic-Chemistry.md"
+  - "Course Note": 
+    - "马克思主义基本原理": "Course-Note/Basic-Principles-of-Marxism.md"
+    - "有机化学": "Course-Note/Organic-Chemistry.md"
 
