@@ -1,9 +1,18 @@
 site_name: NeEnZo's Notebook
 site_url: https://NeEnZo.github.io/notes/
+#site_url: http://127.0.0.1:8000/ 
 theme:
   name: material
+  palette:
+    primary: deep purple
+    accent: amber
+  features:
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
 nav:
   - Front Page: index.md
-  - "Course Note":
-    - "Basic Principles of Marxism": "Course Note/Basic Principles of Marxism.md"
-    - "Organic Chemistry": "Course Note/Organic Chemistry.md"
+  - "Course Note": 
+    - "马克思主义基本原理": "Course-Note/Basic-Principles-of-Marxism.md"
+    - "有机化学": "Course-Note/Organic-Chemistry.md"
+
