@@ -1,5 +1,7 @@
 site_name: NeEnZo's Notebook
 site_url: https://NeEnZo.github.io/notes/
+theme:
+  name: material
 nav:
   - Front Page: index.md
   - "Course Note":
