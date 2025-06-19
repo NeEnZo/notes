@@ -5,5 +5,5 @@ theme:
 nav:
   - Front Page: index.md
   - "Course Note":
-    - "Basic Principles of Marxism": "Basic Principles of Marxism.md"
-    - "Organic Chemistry": "Organic Chemistry.md"
+    - "Basic Principles of Marxism": "Course Note/Basic Principles of Marxism.md"
+    - "Organic Chemistry": "Course Note/Organic Chemistry.md"
