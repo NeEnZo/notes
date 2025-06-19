@@ -1,0 +1,7 @@
+site_name: NeEnZo's Notebook
+site_url: https://NeEnZo.github.io/notes/
+nav:
+  - Front Page: index.md
+  - "Course Note":
+    - "Basic Principles of Marxism": "Basic Principles of Marxism.md"
+    - "Organic Chemistry": "Organic Chemistry.md"
